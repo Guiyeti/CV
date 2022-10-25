@@ -1,0 +1,35 @@
+.titulo {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.imagenCv {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.listado {
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: coral;
+}
+
+a {
+    color: coral;
+
+}
+
+body {
+    background-color: rgb(4, 0, 0);
+}
+.estudios{
+    color: aqua;
+}
